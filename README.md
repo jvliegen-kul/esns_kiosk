@@ -1,5 +1,7 @@
 # Info kiosk image carousel
 
+<i>websites hosted on [https://jvliegen-kul.github.io/esns_kiosk/](https://jvliegen-kul.github.io/esns_kiosk/)</i>
+
 A static, single-purpose website: full-screen, auto-advancing image
 carousel with no chrome, buttons, or scrollbars. Built for an
 unattended info-stand display.
