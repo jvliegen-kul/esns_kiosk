@@ -3,7 +3,7 @@
   --dot: rgba(255, 255, 255, 0.35);
   --dot-active: #ffffff;
   --progress: rgba(255, 255, 255, 0.85);
-  --transition-ms: 900ms;
+  --transition-ms: 300ms;
 }
 
 * {

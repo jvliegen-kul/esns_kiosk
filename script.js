@@ -11,8 +11,8 @@
 const CONFIG = {
   manifestUrl: "images/manifest.json",
   imagesDir: "images/",
-  slideDurationMs: 8000,     // how long each image stays on screen
-  transitionMs: 900,          // must match --transition-ms in style.css
+  slideDurationMs: 20000,     // how long each image stays on screen
+  transitionMs: 300,          // must match --transition-ms in style.css
   requestFullscreenOnTap: true,
   loop: true,
 };
