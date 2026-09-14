@@ -69,12 +69,12 @@ function showSlide(index) {
 }
 
 function startProgressBar() {
-  progressBarEl.classList.remove("animate");
-  progressBarEl.style.width = "0%";
-  // Force reflow so the transition restarts every slide
-  void progressBarEl.offsetWidth;
-  progressBarEl.style.transition = `width ${CONFIG.slideDurationMs}ms linear`;
-  progressBarEl.style.width = "100%";
+//   progressBarEl.classList.remove("animate");
+//   progressBarEl.style.width = "0%";
+//   // Force reflow so the transition restarts every slide
+//   void progressBarEl.offsetWidth;
+//   progressBarEl.style.transition = `width ${CONFIG.slideDurationMs}ms linear`;
+//   progressBarEl.style.width = "100%";
 }
 
 function nextSlide() {
